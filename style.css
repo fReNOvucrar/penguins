@@ -1,0 +1,47 @@
+* {
+    background-color: #D4B36A;
+  }
+  
+  body {
+    margin-left: 75px;
+    margin-right: 20px;
+  }
+  
+  .heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+  }
+  
+  .heading-left {
+    font-size: 30px;
+    color: #553A00;
+  }
+  
+  .heading-right {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+  }
+  
+  .mainnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+  }
+  
+  .navtitle {
+    font-size: 40px;
+    font-weight: 800;
+    color: #4F628E
+  }
+  
+  .navimg img {
+    width: 60%;
+    height: 60%;
+  }
+  
+  
+  
